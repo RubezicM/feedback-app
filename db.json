@@ -1,0 +1,14 @@
+{
+  "feedbacks": [
+    {
+      "text": "Ovo je sa servera dasdsa1",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "Pa nije loše mnogo",
+      "rating": 3,
+      "id": 2
+    }
+  ]
+}
